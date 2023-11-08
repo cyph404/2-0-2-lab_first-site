@@ -66,9 +66,13 @@ And on each one of those pages will be a:
   - featuring some fake copyright info (or honestly whatever you want)
 
 Here are the mockups for each:
-
+`index.html`
 ![index.html](./images/index.png)
+
+`blogs.html`
 ![blogs.html](./images/blogs.png)
+
+`data.html`
 ![data.html](./images/data.png)
 
 # Project setup
@@ -201,7 +205,4 @@ CSS and HTML can be a really *tedious* thing to do by hand, so move slowly and a
 Once you get your site working, you might want to share it with the world! Well, to do that you'll need what's called a "static server." That is to say, a very simple server that knows how to "host" (show) your pages to the world. Luckily, GitHub itself has a feature called GitHub Pages that does just that! Check out [this tutorial on using GitHub Pages](https://docs.github.com/en/pages/quickstart) to learn how to set it up. It's only a few steps!
 
 Also, the wire frames we've given are the *minimum* requirements, after you deploy, feel free to add as much to your site as you want. Have fun and stay curious!
-
-
-
 
