@@ -43,7 +43,7 @@ These are probably what you're thinking of by default: fully rendered images of 
 These are better for later stages of the project.
 
 ## Wire frames
-*These* are what we'll be working from today. Wire frames are very aptly named: they're just wires (lines) and frames (empty shapes). These convey the structure of the site, but not the content. They are meant to be generated quickly so you can actually spend time building the site.
+*These* are what we'll be working from today. Wire frames are very aptly named: they're just wires (lines) and frames (empty shapes). These convey the structure of the site, but not the content. They are meant to be generated quickly so you can actually spend time building the site. Text is usually fake, very short, or just lines. Images are usually just squares or rectangles with x's in them. You'll see examples of this below.
 
 # User stories?
 So we used "User Stories" in our previous labs because they were interactive. However, for more "static" (that means "unchanging," it's the opposite of "dynamic") projects, sometimes it's more helpful to list things out with pictures and requirements. Remember, there are *many* project planning tools, think about which make sense and use anything you need. Later on, we'll use visuals, checkpoints, *and* user stories!
@@ -66,7 +66,9 @@ And on each one of those pages will be a:
   - featuring some fake copyright info (or honestly whatever you want)
 
 Here are the mockups for each:
-`index.html`
+
+
+`index.html` (see those 3 images?)
 ![index.html](./images/index.png)
 
 `blogs.html`
