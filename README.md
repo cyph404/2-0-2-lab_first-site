@@ -120,40 +120,40 @@ Here are the specific things we're looking for on each page. If you can check al
 Lets start with the universal elements that should appear on each page:
 
 ## header
-- [ ] Has a `header` elements at the top of each page
-- [ ] Inside the header is a `p` tag with the site name
-- [ ] Inside the header is a `nav` tag with 3 `a` tags inside of it
-  - [ ] The first `a` tag has the text "Home" and links to `index.html`
-  - [ ] The second `a` tag has the text "Blogs" and links to `blogs.html`
-  - [ ] The third `a` tag has the text "Data" and links to `data.html`
-- [ ] The links appear in a `ol` and each one is in an `li` element
-- [ ] The links all appear on the same line
-- [ ] The `nav` is over to the right of the `header`
+- [x] Has a `header` elements at the top of each page
+- [x] Inside the header is a `p` tag with the site name
+- [x ] Inside the header is a `nav` tag with 3 `a` tags inside of it
+  - [x ] The first `a` tag has the text "Home" and links to `index.html`
+  - [x ] The second `a` tag has the text "Blogs" and links to `blogs.html`
+  - [ x] The third `a` tag has the text "Data" and links to `data.html`
+- [x ] The links appear in a `ol` and each one is in an `li` element
+- [x ] The links all appear on the same line
+- [ x] The `nav` is over to the right of the `header`
 
 Never made a nav? Check out this great [W3schools tutorial](https://www.w3schools.com/css/css_navbar.asp)!
 
 ## main
-- [ ] Has a `main` element on each page with the main content
-- [ ] Each page has only a single `h1` tag either as a child or grandchild
+- [x ] Has a `main` element on each page with the main content
+- [ x] Each page has only a single `h1` tag either as a child or grandchild
 
 ## footer
-- [ ] Has a `footer` element at the bottom of each page
-- [ ] Inside the footer is a `p` tag with the text "© 2021 - Your Name"
-- [ ] The footer takes the entire width of the page
-- [ ] The `p` tag text is centered on the page
+- [x ] Has a `footer` element at the bottom of each page
+- [ x] Inside the footer is a `p` tag with the text "© 2021 - Your Name"
+- [ ?] The footer takes the entire width of the page
+- [x] The `p` tag text is centered on the page
 
 Alright, now lets look at each individual page:
 
 ## index.html
 - [ ] There is a `section` on the page
 - [ ] The section is `aria` labelled by the `h1`
-- [ ] There are 3 images in the section
-- [ ] The 2 square images on the side are *local* and in your project
-- [ ] The center image is *remote* and links to an image on the internet and is a rectangle
+- [x ] There are 3 images in the section
+- [ x] The 2 square images on the side are *local* and in your project
+- [ x] The center image is *remote* and links to an image on the internet and is a rectangle
 - [ ] Under the images is at least 1 `p` tag with text explaining your topic
 - [ ] To the right of the section is an `aside` element
-- [ ] The aside has a `h2` tag
-- [ ] There is at least 1 `p` tag with text in the `aside` element
+- [x ] The aside has a `h2` tag
+- [ x] There is at least 1 `p` tag with text in the `aside` element
 
 Don't panic about that `aria` part with `sections`, watch this [video that explains properly labelled sections](https://www.youtube.com/watch?v=ULdkpU51hTQ).
 
