@@ -145,12 +145,12 @@ Never made a nav? Check out this great [W3schools tutorial](https://www.w3school
 Alright, now lets look at each individual page:
 
 ## index.html
-- [ ] There is a `section` on the page
+- [x ] There is a `section` on the page
 - [ ] The section is `aria` labelled by the `h1`
 - [x ] There are 3 images in the section
 - [ x] The 2 square images on the side are *local* and in your project
 - [ x] The center image is *remote* and links to an image on the internet and is a rectangle
-- [ ] Under the images is at least 1 `p` tag with text explaining your topic
+- [ x] Under the images is at least 1 `p` tag with text explaining your topic
 - [ ] To the right of the section is an `aside` element
 - [x ] The aside has a `h2` tag
 - [ x] There is at least 1 `p` tag with text in the `aside` element
